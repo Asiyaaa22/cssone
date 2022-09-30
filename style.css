@@ -24,6 +24,7 @@ b{
 }
 span{
     text-decoration: line-through;
+    font-weight: bold;
 }
 
 .work{
