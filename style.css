@@ -1,0 +1,39 @@
+h1{
+    color: red;
+}
+h2{
+    color: rgba(204, 41, 41, 0.849);
+    font-style: italic;
+    font-weight: bold;
+}
+
+li{
+    color: maroon;
+}
+#first{
+    letter-spacing: 5px;
+}
+a{
+    background-color: yellow;
+    font-style: italic;
+}
+
+b{
+ background-color: yellow;
+ font-weight: bold;
+}
+span{
+    text-decoration: line-through;
+}
+
+.work{
+    font-style: italic;
+    text-decoration: underline;
+}
+#second{
+    letter-spacing: 5px;
+}
+p{
+    color:rgba(118, 71, 10, 0.927)
+
+}
